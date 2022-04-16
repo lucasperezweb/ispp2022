@@ -1,0 +1,4 @@
+- No es inteligente invertir tiempo en la tecnología antes de saber si un producto va a tener éxito en el mercado. El producto tiene que entrar por los ojos. Al usuario final le da igual lo que tenga detrás.
+- Hay que tener cuidado con el copyright. Hay que informarse si se necesitan permisos para usar material de terceros (como logotipos), sobre todo si es para algo que va a salir al mercado.
+- Si un usuario piloto no tiene claro que sus clientes van a usar un servicio que van a contratar ¿por qué contratarlo?
+- Para final de curso tenemos que tener desarrollados anuncios cortos para cada uno de los interesados en la aplicación: inversores, clientes, usuarios finales…

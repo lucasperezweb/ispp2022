@@ -1,0 +1,19 @@
+- Se recomienda revisar las tareas que estén realizando otros compañeros para hacer que se posea un mayor rendimiento y el equipo se integre entre sí mejor.
+- Se recomienda premiar por rendimiento a los compañeros con algún mecanismo. Pensar en algo parecido al empleado de la semana.
+- Los profesores recomiendan que el análisis de rendimiento no sea anónimo.
+- A la hora de analizar el rendimiento de otros compañeros no es bueno penalizar a aquellos con un mal desempeño. Es mejor llevarlo por el lado profesional del compromiso y las responsabilidades, ya que al firmar un contrato te responsabilizas de cumplirlo, ser profesional. Por eso también recomiendan que todo se enfoque en la reorientación de aquellas personas con un desempeño menor.
+- En el rendimiento del equipo es bueno poner a las personas, las horas realizadas y las horas esperadas.
+- El análisis del rendimiento equipo también se debe contemplar como se está actuando, las horas invertidas y la productividad por cada miembro del equipo. (Ojo la productividad debe tener una - métrica, en nuestro caso es independiente para cada grupo)
+- En el análisis del rendimiento se debe representar como va cada integrante.
+- El rendimiento se calcula con el tiempo invertido con respecto al tiempo teórico.
+- Indicar la media de horas invertidas, visión global y luego individual.
+- El rendimiento no debe basarse solo en las horas invertidas, también es necesario una visión global de este, y después una visión individual sobre cada miembro
+- No es recomendable indicar un informe de hora por día porque da poca información. Además no se pueden comparar las horas de trabajo de unos y otros.
+- Desglosar el rendimiento en sus distintas vertientes: Horas de clase, tareas de desarrollo, documentación, …
+- Importancia del análisis del rendimiento una vez finalizado el sprint, sacando conclusiones y proponiendo soluciones y mejoras concretas, con la definición de criterios para conocer el estado de las mejoras.
+- Las horas de esfuerzo estimado deben ser inmutables, no cambiar aunque no se hayan completado.
+- El rendimiento no es igual a horas, relacionar rendimiento con productividad, y analizar qué es lo que se hace en esas horas.
+- Un buen criterio que ayude a analizar el rendimiento puede ser el uso de puntos de historia.
+- A la hora de medir el rendimiento de cada miembro, hay que tener en cuenta los roles y diferenciar. No es lo mismo 3 horas de trabajo como “Project Manager” que como programador que elaborando documentación.
+- Se recomienda el uso de “scatter plots” para mostrar de forma efectiva el rendimiento alcanzado de los integrantes del grupo.
+- Hay que incluir conclusiones del análisis de rendimiento y modificar la manera en la que realizamos la medición de estos. Se recomienda mirar otras fórmulas y, en base a esto, tratar de - redistribuir la productividad.

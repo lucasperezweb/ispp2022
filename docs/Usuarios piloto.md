@@ -1,0 +1,12 @@
+- Destacar datos acerca de la recopilación de los usuarios pilotos, como por ejemplo el número de gente que ha realizado la encuesta.
+- Diferenciar los perfiles de usuarios identificados, obtenidos de las estadísticas de la encuesta.
+- No generalizar demasiado los perfiles de los usuarios pilotos.
+- Hacer una segmentación de los perfiles según interés/edad/peso… de usuarios bien representada en las transparencias.
+- Buscar posibles usuarios pilotos de diferentes ámbitos, para ver si el análisis de las conclusiones puede ser generalizable.
+- Usar la encuesta para priorizar funcionalidades de cara a los usuarios pilotos.
+- Indicar las funcionalidades que se priorizan y las que no.
+- Plantear si un patrón común en los usuarios pilotos es intencionado o no. Por ejemplo, si todos los usuarios pilotos son de Sevilla es causa o consecuencia.
+- Dar ejemplos del feedback que han dado los usuarios pilotos. 
+- Es muy importante usar la palabra usuarios pilotos y no “clientes potenciales”.
+- Especificar cómo afecta el impacto del feedback de los usuarios piloto a la planificación futura del proyecto y cómo va a ser viable en el mercado.
+- Si se ha tenido problemas con los usuarios piloto por el tema del feedback, se debe analizar una solución a eso, ampliar los usuarios piloto, poner un formulario mejor, etc.

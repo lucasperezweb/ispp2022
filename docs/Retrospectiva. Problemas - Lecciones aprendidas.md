@@ -1,0 +1,22 @@
+- Es necesario listar las situaciones adversas que se presentan durante el desarrollo del proyecto. Su anticipación, su estado, las acciones para solventarlo y las lecciones a aprender de ellos.
+- No se puede hacer uso de la palabra “problema” a la ligera, al menos hay que usarla bien. Es mejor usar situaciones adversas.
+- Si se produce una situación adversa, es importante que el grupo conozca su estado en todo momento.
+- Ser específico en las soluciones, dar propuestas concretas ante las situaciones y cómo se va a probar que funcionan.
+- No separar los problemas de las lecciones aprendidas.
+- Las lecciones aprendidas deben ir orientadas a optimizar costes, automatizar procesos... Hay que ser concretos en las mejoras, por ejemplo, vamos a usar esta metodología y vamos a medir si nos funciona con este criterio, nada de "creo que vamos mejor...".
+- Se deben dar acciones concretas en las mejoras extraídas de las lecciones aprendidas.
+- Para los problemas/situaciones adversas que se llevan arrastrando cierto tiempo, es obligatorio:
+    - Estado del problema.
+    - Lecciones aprendidas.
+    - Acciones que se han aplicado para solucionarlo.
+    - Objetivos/Umbrales que se habían definido para determinar el éxito o fracaso de las acciones aplicadas.
+    - Comparación de las métricas reales con los umbrales esperados.
+    - Si no se han cumplido dichos objetivos, nuevas acciones a aplicar en el futuro.
+- Para los nuevos problemas/situaciones adversas, es obligatorio:
+    - Estado del problema.
+    - Lecciones aprendidas.
+    - Acciones planteadas para su resolución.
+    - Objetivos/Umbrales que se han definido para determinar el éxito o fracaso de las acciones anteriores.
+    - En qué periodo de tiempo se espera alcanzar dichos objetivos.
+- Habría que incluir el problema de que haya alumnos con incompatibilidades horarias.
+- Si nos hemos pasado de presupuesto, debemos explicar el plan de contingencia llevado a cabo para soportar el error de estimación del presupuesto. “¿Tenemos reservas de contingencia del 5% para esos problemas?”, por ejemplo.
