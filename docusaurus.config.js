@@ -16,7 +16,8 @@ const config = {
   organizationName: 'ispp2022', // Usually your GitHub org/user name.
   projectName: 'ispp2022', // Usually your repo name.
   plugins: [[ require.resolve('docusaurus-lunr-search'), {
-    languages: ['en', 'es'] // language codes
+    languages: ['en', 'es'], // language codes
+    
   }]],
 
   presets: [
@@ -25,16 +26,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/lucasperezweb/ispp2022/',
+          editUrl: 'https://github.com/lucasperezweb/ispp2022/blob/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/lucasperezweb/ispp2022/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -48,12 +45,6 @@ const config = {
       navbar: {
         title: 'Base de conocimiento ISPP 2022',
         items: [
-          {
-            type: 'doc',
-            docId: 'Índice',
-            position: 'left',
-            label: 'Docs',
-          },
           /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
             href: 'https://github.com/lucasperezweb/ispp2022',
@@ -64,7 +55,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Lucas Pérez (@lucasperezweb). Built with Docusaurus.`,
+        copyright: `Made by Lucas Pérez (@lucasperezweb). Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
